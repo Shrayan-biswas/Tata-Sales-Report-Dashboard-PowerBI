@@ -1,0 +1,18 @@
+# Power BI local cache and settings
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
+**/.pbi/*
+
+# Temporary / OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.bak
+~$*.xlsx
+
+# Python / editor artifacts (if analysis scripts are added later)
+__pycache__/
+*.py[cod]
+.vscode/
+.idea/

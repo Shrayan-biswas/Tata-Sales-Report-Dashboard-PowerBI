@@ -1,0 +1,4 @@
+expression ExcelFilePath = "C:\CHANGE\THIS\PATH\car_sale_final-4_1_.xlsx" meta [IsParameterQuery=true, Type="Text", IsParameterQueryRequired=true]
+	lineageTag: 85cad3bc-4517-48c4-b1b6-f9665c3b7842
+
+	annotation PBI_ResultType = Text
